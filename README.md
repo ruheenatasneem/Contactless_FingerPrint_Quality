@@ -1,15 +1,27 @@
 Contactless Fingerprint Quality Assessment
+
+
 Project Overview
-The Contactless Fingerprint Quality Assessment system is a Python-based application developed to evaluate the quality of contactless fingerprint images. The application analyzes fingerprint images and calculates quality metrics that help determine whether an image is suitable for biometric recognition.
-The project provides a simple graphical web interface built with Streamlit, allowing users to upload fingerprint images and instantly receive quality scores and feedback.
+
+
+
+The Contactless Fingerprint Quality Assessment system is a Python-based application developed to evaluate the quality of contactless 
+
+fingerprint images. The application analyzes fingerprint images and calculates quality metrics that help determine whether an image is suitable for biometric recognition.
+
+The project provides a simple graphical web interface built with Streamlit, allowing users to upload fingerprint images and instantly 
+
+receive quality scores and feedback.
 ________________________________________
 Objectives
+
 •	Assess the quality of contactless fingerprint images.
 •	Detect image characteristics that affect fingerprint recognition.
 •	Provide an easy-to-use interface for quality evaluation.
 •	Help improve the reliability of fingerprint authentication systems.
 ________________________________________
 Features
+
 •	Upload fingerprint images.
 •	Automatic fingerprint quality analysis.
 •	Displays quality score.
@@ -26,17 +38,28 @@ NumPy	Numerical Computations
 Pillow (PIL)	Image Handling
 ________________________________________
 Project Structure
+
 contactless-fingerprint-qc/
+
 │
-├── quality_app.py              # Streamlit application
-├── quality_assessment.py       # Quality assessment logic
-├── requirements.txt            # Project dependencies
+├── quality_app.py    
+                               # Streamlit application
+├── quality_assessment.py      # Quality assessment logic
+                               # Project dependencies
 ├── .gitignore
+
+├── requirements.txt        
+
 ├── test_dataset/
+
 │   ├── Blur/
+
 │   ├── Good/
+
 │   ├── Dry/
+
 │   ├── Wet/
+
 │   └── ...
 └── README.md
 ________________________________________
