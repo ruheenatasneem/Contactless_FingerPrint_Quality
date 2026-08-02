@@ -1173,11 +1173,15 @@ contactless-fingerprint-qc/
 
 │
 
+
 ├── quality_assessment.py
+
 
 ├── quality_app.py
 
+
 ├── test_quality.py
+
 
 ├── requirements.txt
 
@@ -1187,11 +1191,15 @@ contactless-fingerprint-qc/
 
 ├── test_dataset/
 
+
 │ ├── good/
+
 
 │ ├── blurry/
 
+
 │ ├── dark/
+
 
 │ └── glare/
 
@@ -1531,6 +1539,12 @@ Out Put :Results
 
 
 <img width="932" height="1004" alt="image" src="https://github.com/user-attachments/assets/30ff6f2a-2d58-41e3-933c-88d4131e8b8a" />
+
+
+
+
+GitHubLink:
+https://github.com/ruheenatasneem/Contactless_FingerPrint_Quality
 
 
 
