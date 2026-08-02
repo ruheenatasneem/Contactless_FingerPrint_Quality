@@ -1,0 +1,4 @@
+Filename,Category,Passed,Composite Score,Blur Score,Brightness,Glare,ROI,Ridge,Guidance
+Image1.jpeg,good,True,99.53,50.6,131.98,0.0,0.571,1140.63,Good capture - Ready for processing.
+DImage1.jpeg,dark,False,57.2,1.26,26.33,0.0,0.236,638.63,Too blurry - Hold your phone steady and refocus.
+GImage1.jpeg,glare,True,80.01,21.11,114.28,0.0011,0.2869,2804.68,Good capture - Ready for processing.
