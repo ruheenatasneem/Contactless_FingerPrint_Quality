@@ -1,6 +1,6 @@
-opencv-python
-numpy
-streamlit
-pandas
-pillow
-matplotlib
+streamlit==1.49.0
+opencv-python-headless==4.10.0.84
+numpy==1.26.4
+pandas==2.2.3
+Pillow==11.3.0
+matplotlib==3.10.5
